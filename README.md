@@ -1,5 +1,5 @@
 # HealthCam
-<img src="https://github.com/nevenwt/cs377e-healthpact/blob/master/healthcam_logo.png" alt="healthcam logo" width="800">
+<img src="https://github.com/VivianNguyen2018/healthcam/blob/master/healthcam_logo.png" alt="healthcam logo" width="800">
 
 HealthCam is an application for people who have important health goals, but often don't have the time or continuous motivation to accomplish them. Through our research and interviews with residents of lower-income communities who often have a lot of other priorities to juggle, we've learned that communities (e.g. family and friends) play a big role in continued motivation to achieving a goal. Most people know the health benefits of eating healthy and working out, but sticking with a goal when there are other priorities in life is difficult. We hope that by bringing a sense of camaraderie and community in our app, we can help people complete their goals!
 
