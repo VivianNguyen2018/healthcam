@@ -9,6 +9,8 @@ Our current prototype is below:
 
 **[PROTOTYPE](https://invis.io/QAIYXLRK35D)**
 
+The links on our prototype follow along with the tasks below.
+
 # Tasks
 
 **Task 1: Begin New Goal**
