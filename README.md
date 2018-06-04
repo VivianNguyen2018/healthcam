@@ -16,16 +16,17 @@ The links on our prototype follow along with the tasks below.
 
 You want to begin a new goal to "Run one mile each day until June 20, 2018". Try navigating to the right screens and carrying out adding that goal to your app.
 
-**Task 2: Upload Progress**
+**Task 2: View other People's Videos**
 
-Now, imagine you've been working on that goal for a few days, and you're supposed to upload a one-second video of your progress or how you're feeling that day. Try navigating to that goal and seeing what it looks like to view a one-second video you've already uploaded, and then upload a one-second video for the current day.
+Next, you want to look at friends' videos for motivation. First, you want to follow Andrew, and then you want to check in on your friend Sue's current progress toward her goal. 
+
+Then, you want to check out how the filter works.
+
+**Task 3: Upload Progress**
+
+Finally, imagine you've been working on that goal for a few days, and you're supposed to upload a one-second video of your progress or how you're feeling that day. Try navigating to that goal and seeing what it looks like to view a one-second video you've already uploaded, and then upload a one-second video for the current day.
 
 Imagine that you've now jumped forward in time, and your goal has ended. Your one-second videos are now combined into one final timeline video of your goal, and you can write a blurb about your goal and share your journey with the community.
 
-**Task 3: View other People's Videos**
-
-Finally, you want to look at friends' videos for motivation. First, you want to follow Andrew, and then you want to check in on your friend Sue's current progress toward her goal. 
-
-Then, you want to check out how the filter works.
 
 **Thanks so much for trying out our prototype!!**
