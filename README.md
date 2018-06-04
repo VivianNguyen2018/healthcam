@@ -4,9 +4,9 @@ HealthCam is an application for people who have important health goals, but ofte
 
 Our app would allow users to be able to begin new health goals and set deadlines for themselves. Along their journey, they would upload one-second videos of their progress/feelings each day, and at the end of their goal, the app will stitch together all of their one-second videos into one final timeline video. They can also share their goals with the public community on the app, with their friends, or just with themselves. The purpose of sharing with others is for friends to motivate one another and see each other's progress. Also, people can upload their final timeline videos to the community, and seeing these videos can be motivational for people who are in the midst of similar goals.
 
-Our current prototype is below:
+Our final prototype is below:
 
-**[PROTOTYPE](https://invis.io/QAIYXLRK35D)**
+**[PROTOTYPE](https://invis.io/PKK23BIWZ8M)**
 
 The links on our prototype follow along with the tasks below.
 
@@ -16,16 +16,16 @@ The links on our prototype follow along with the tasks below.
 
 You want to begin a new goal to "Run one mile each day until June 20, 2018". Try navigating to the right screens and carrying out adding that goal to your app.
 
-**Task 2: Upload Daily Progress**
+**Task 2: Upload Progress**
 
-Now, imagine you've been working on that goal for a few days, and you're supposed to upload a one-second video of your progress or how you're feeling each day. Try navigating to that goal and seeing what it looks like to view a one-second video you've already uploaded, and then upload a one-second video for the current day.
+Now, imagine you've been working on that goal for a few days, and you're supposed to upload a one-second video of your progress or how you're feeling that day. Try navigating to that goal and seeing what it looks like to view a one-second video you've already uploaded, and then upload a one-second video for the current day.
 
 Imagine that you've now jumped forward in time, and your goal has ended. Your one-second videos are now combined into one final timeline video of your goal, and you can write a blurb about your goal and share your journey with the community.
 
 **Task 3: View other People's Videos**
 
-Finally, you want to look at some other people's videos for motivation. You're interested in General Fitness videos. First, you want to check in on your friend Sue's current progress toward her goal. 
+Finally, you want to look at friends' videos for motivation. First, you want to follow Andrew, and then you want to check in on your friend Sue's current progress toward her goal. 
 
-Then, you want to explore the general community's completed videos of their journeys toward achieving their goals.
+Then, you want to check out how the filter works.
 
 **Thanks so much for trying out our prototype!!**
